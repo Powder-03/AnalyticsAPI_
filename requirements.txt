@@ -1,0 +1,11 @@
+fastapi[standard]==0.115.11
+ #pip tools
+
+uvicorn
+gunicorn
+sqlmodel
+timescaledb
+pydantic
+sqlalchemy
+      
+      
